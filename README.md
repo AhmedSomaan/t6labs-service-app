@@ -1,11 +1,10 @@
 # App Description
-A app that will attempt to aid local bussinesses and help them develop and grow.
+An app that will attempt to aid local bussinesses and help them develop and grow.
 
 
 # Developers who worked on this with me:
 * Adshayan
-* Vinorth (https://github.com/vinorth)
+* Ahmed   (https:github.com/kingsomaan12)
+* Mehadi  (https://github.com/knightofhonour12)
 * Rajeeth (https://github.com/McRaj)
-* Ahmed
-* Mehadi
-
+* Vinorth (https://github.com/vinorth)
